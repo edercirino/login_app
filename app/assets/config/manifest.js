@@ -3,3 +3,5 @@
 //= link_tree ../../../vendor/javascript .js
 //= link_tree ../builds
 //= link style.css
+//= link welcome.css
+//= link sign_up.css
