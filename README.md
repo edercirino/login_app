@@ -75,5 +75,3 @@ Made with ❤️ for Éder Cirino 👋 Get in touch
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-Éder-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/edercirino/)](https://www.linkedin.com/in/edercirino/)
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=https://mailto:ederdevbr@gmail.com)](https://mailto:ederdevbr@gmail.com)
